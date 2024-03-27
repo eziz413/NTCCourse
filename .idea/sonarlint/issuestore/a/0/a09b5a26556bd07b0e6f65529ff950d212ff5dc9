@@ -1,0 +1,10 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ž¦¥ýÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(®ŠÀ›ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(žì¥å
+Q	java:S125"<This block of commented-out lines of code should be removed.(ú¶ªž
+Q	java:S125"<This block of commented-out lines of code should be removed.(’Ô³æ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(ÌÒÿà
